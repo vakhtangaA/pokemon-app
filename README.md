@@ -1,1 +1,1 @@
-React and GraphQl app
+React and GraphQL pokemon app
